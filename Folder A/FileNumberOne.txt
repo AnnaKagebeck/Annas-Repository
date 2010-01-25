@@ -2,6 +2,6 @@ Hej hej
 
 Lägger till lite i denna fil.
 
-
+Ny text för master-branchen
 
 Ny branch! Nu är det rättstavat.

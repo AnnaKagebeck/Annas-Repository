@@ -5,3 +5,5 @@ Lägger till lite i denna fil.
 Ny text för master-branchen
 
 Ny branch! Nu är det rättstavat.
+
+Ny branch igen.. Nummer 3.

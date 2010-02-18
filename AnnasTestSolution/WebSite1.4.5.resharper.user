@@ -1,0 +1,140 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/d:Templates/d:MasterPages/f:WebSiteMasterPage.master.cs" caret="157" fromTop="7" />
+      <File id="E27F6EAD-26AD-45C8-BD93-55E0B774811D/d:Templates/d:MasterPages/f:MasterPage.Master.cs" caret="180" fromTop="7" />
+      <File id="6A874559-355B-4DCD-949F-19A49AFC9422/d:Services/f:IWineService.cs" caret="124" fromTop="5" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx" caret="936" fromTop="21" />
+      <File id="6A874559-355B-4DCD-949F-19A49AFC9422/d:Services/f:WineService.cs" caret="222" fromTop="0" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="8584" fromTop="5" />
+      <File id="6A874559-355B-4DCD-949F-19A49AFC9422/d:Presentation/f:PresenterBase.cs" caret="373" fromTop="20" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="235" fromTop="7" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="707" fromTop="20" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="610" fromTop="1" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="3610" fromTop="13" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx" caret="994" fromTop="22" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="685" fromTop="8" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="10364" fromTop="28" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="3755" fromTop="13" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="784" fromTop="10" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="4325" fromTop="9" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="9945" fromTop="8" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="8808" fromTop="8" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="5753" fromTop="8" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="10572" fromTop="20" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="10184" fromTop="26" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="7232" fromTop="12" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="8805" fromTop="14" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="9079" fromTop="18" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="9383" fromTop="22" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="9688" fromTop="20" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="9943" fromTop="18" />
+      <File id="D6C49929-41B6-4DEA-98CA-6E6DA376BD93/f:Default.aspx.cs" caret="8625" fromTop="7" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="List" priority="1" />
+      <Item value="string" priority="23" />
+      <Item value="new" priority="6" />
+      <Item value="Repeater1" priority="1" />
+      <Item value="wineDistrictList" priority="0" />
+      <Item value="DataBinder" priority="0" />
+      <Item value="Container" priority="1" />
+      <Item value="Core.Presentation" priority="0" />
+      <Item value="PresenterBase" priority="0" />
+      <Item value="public" priority="1" />
+      <Item value="WineService" priority="0" />
+      <Item value="private" priority="8" />
+      <Item value="IEnumerator" priority="0" />
+      <Item value="_wineList" priority="1" />
+      <Item value="WineUnit" priority="3" />
+      <Item value="Country" priority="2" />
+      <Item value="District" priority="2" />
+      <Item value="Grape" priority="2" />
+      <Item value="Name" priority="2" />
+      <Item value="Producer" priority="2" />
+      <Item value="Vintage" priority="1" />
+      <Item value="int" priority="1" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="return" priority="3" />
+      <Item value="finally" priority="0" />
+      <Item value="resultString" priority="1" />
+      <Item value="try" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="tfnString" priority="1" />
+      <Item value="TfnNumberTbx" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="tfnNumbers" priority="1" />
+      <Item value="Repeater2" priority="1" />
+      <Item value="GetPhoneNumber" priority="0" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="areaCode" priority="4" />
+      <Item value="totNumber" priority="0" />
+      <Item value="formattedNumber" priority="3" />
+      <Item value="number" priority="1" />
+      <Item value="phoneNumber" priority="1" />
+      <Item value="Regex" priority="0" />
+      <Item value="s" priority="1" />
+      <Item value="decimal" priority="0" />
+      <Item value="String" priority="1" />
+      <Item value="StringSplitOptions" priority="0" />
+      <Item value="switch" priority="0" />
+      <Item value="numb" priority="7" />
+      <Item value="case" priority="3" />
+      <Item value="break" priority="3" />
+      <Item value="if" priority="0" />
+      <Item value="else" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Repeater">
+      <Item value="DataSource" priority="1" />
+      <Item value="DataBind" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.UI.DataBinder">
+      <Item value="Eval" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.RepeaterItem">
+      <Item value="DataItem" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Default">
+      <Item value="GetPhoneNumber" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="3" />
+      <Item value="IsInterned" priority="0" />
+      <Item value="Format" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.RegularExpressions.Regex">
+      <Item value="Replace" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split" priority="0" />
+      <Item value="Length" priority="1" />
+      <Item value="ToString" priority="0" />
+      <Item value="Insert" priority="0" />
+      <Item value="Substring" priority="2" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,5 @@
+C:\Users\anna.kagebeck\Documents\Visual Studio 2008\Projects\WebSite1\EPiServer1\bin\EPiServer1.dll
+C:\Users\anna.kagebeck\Documents\Visual Studio 2008\Projects\WebSite1\EPiServer1\bin\EPiServer1.pdb
+C:\Users\anna.kagebeck\Documents\Visual Studio 2008\Projects\WebSite1\EPiServer1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\anna.kagebeck\Documents\Visual Studio 2008\Projects\WebSite1\EPiServer1\obj\Debug\EPiServer1.dll
+C:\Users\anna.kagebeck\Documents\Visual Studio 2008\Projects\WebSite1\EPiServer1\obj\Debug\EPiServer1.pdb

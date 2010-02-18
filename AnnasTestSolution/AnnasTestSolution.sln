@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TestWebSite", "TestWebSite", "{B668600D-1A77-4C3D-97A0-B333F671B06A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/TestWebSite"
+		Debug.AspNetCompiler.PhysicalPath = "TestWebSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\TestWebSite\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/TestWebSite"
+		Release.AspNetCompiler.PhysicalPath = "TestWebSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\TestWebSite\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57541"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.Core", "LearningCore\Learning.Core.csproj", "{6A874559-355B-4DCD-949F-19A49AFC9422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.EPiServer", "EPiServer1\Learning.EPiServer.csproj", "{E27F6EAD-26AD-45C8-BD93-55E0B774811D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B668600D-1A77-4C3D-97A0-B333F671B06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B668600D-1A77-4C3D-97A0-B333F671B06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B668600D-1A77-4C3D-97A0-B333F671B06A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B668600D-1A77-4C3D-97A0-B333F671B06A}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{6A874559-355B-4DCD-949F-19A49AFC9422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A874559-355B-4DCD-949F-19A49AFC9422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A874559-355B-4DCD-949F-19A49AFC9422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A874559-355B-4DCD-949F-19A49AFC9422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E27F6EAD-26AD-45C8-BD93-55E0B774811D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27F6EAD-26AD-45C8-BD93-55E0B774811D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27F6EAD-26AD-45C8-BD93-55E0B774811D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27F6EAD-26AD-45C8-BD93-55E0B774811D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\anna.kagebeck\Documents\Visual Studio 2008\Projects\WebSite1\LearningCore\bin\Debug\LearningCore.dll
+C:\Users\anna.kagebeck\Documents\Visual Studio 2008\Projects\WebSite1\LearningCore\bin\Debug\LearningCore.pdb
+C:\Users\anna.kagebeck\Documents\Visual Studio 2008\Projects\WebSite1\LearningCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\anna.kagebeck\Documents\Visual Studio 2008\Projects\WebSite1\LearningCore\obj\Debug\LearningCore.dll
+C:\Users\anna.kagebeck\Documents\Visual Studio 2008\Projects\WebSite1\LearningCore\obj\Debug\LearningCore.pdb
